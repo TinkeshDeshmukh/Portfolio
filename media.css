@@ -2,7 +2,7 @@
 @media  (min-width:100px) and (max-width: 480px) {
   /*! First Container */
   .first-container{
-    background-image: url(./background.png);
+    background-image: url(background.png);
     background-repeat: no-repeat;
     background-size: 1200px;
     background-position: center;
@@ -211,7 +211,7 @@ nav{
       /*! First Container */
   .first-container{
     background-color: red;
-    background-image: url(./background.png);
+    background-image: url(background.png);
     background-repeat: no-repeat;
     background-size: 1700px;
     background-position: top;
